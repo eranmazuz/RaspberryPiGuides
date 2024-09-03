@@ -31,4 +31,4 @@ Installing OMV7 on Raspberry PI 5 OS Lite, using a scripted install.
 Enter the url of the raspberry pi `http://[pi name].local`
 In the login enter the following:
 - username - admin
-- password openmediavault
+- password - openmediavault
